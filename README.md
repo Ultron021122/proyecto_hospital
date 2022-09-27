@@ -4,7 +4,7 @@
   <br>
   Nuestro pagina web esta construida con el destino de mantener un control de pacientes, médicos, trabajador y/o personal de un hospital.
   <br>
-  <img src="https://github.com/Ultron021122/proyecto_hospital/img/fondOne.jpg" width="500">
+  <img src="https://github.com/Ultron021122/proyecto_hospital/blob/main/img/fondOne.jpg" width="500">
 </div>
 El proyecto se esta realizando a través de los lenguajes web, como lo es el lenguaje de etiquetas HTML, hojas de estilo CSS y como lenguajes de programación se a usado JavaScript y PHP. En el manejo de base de datos, se esta usando bases de datos relacionales esto por medio del sistema gestor de bases de datos MySQL.
 <h3>Utilidades de la pagina web:</h3>
